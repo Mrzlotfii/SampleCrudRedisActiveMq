@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EPjdpwpwPVPqGyKIMFfIgFxErgkoLx954mpHxnJevq0=",
+  "Source": "CrudRedisActiveMQ",
+  "BasePath": "_content/CrudRedisActiveMQ",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
